@@ -1,5 +1,0 @@
-15:16:02
-
-echo "Hello"
-
-gklksl
